@@ -25,5 +25,5 @@ The objective can be broken down into the following detailed components:
 ### Sales Forecast Dashboard
 ![Sales Forecast Dashboard](https://github.com/shreeyashah09/Retail-Sales-Insights-Forecast-Dashboard-using-Power-BI/blob/master/Sales%20Forecast%20Dashboard.jpg)
 
-## Insights
+## Learnings/Insights
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting and interactive dashboard creaton, driving business success.
