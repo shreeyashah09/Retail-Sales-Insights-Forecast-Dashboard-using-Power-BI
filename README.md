@@ -8,7 +8,7 @@ To contribute to the success of a retail business by utilizing data analysis tec
 Superstore_Sales_Dataset.csv </a>
 
 ## Dashboard
-https://github.com/shreeyashah09/Retail-Sales-Insights-Forecast-Dashboard-using-Power-BI/blob/master/Sales%20Dashboard.jpg
+![Dashboard Screenshot](C:\Users\ks010\Desktop\MY AI Projects\SuperStore Sales Dashboard\Retail-Sales-Insights-Forecast-Dashboard-using-Power-BI\Sales Dashboard.jpg)
 
 ## Insights
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting and interactive dashboard creaton, driving business success.
